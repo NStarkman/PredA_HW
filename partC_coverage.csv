@@ -1,0 +1,17 @@
+step,countries
+Country list,217
+have the target (GB.XPD.RSDV.GD.ZS),172
+target joined to the country list,139
+"+ gdp_pc_usd (NY.GDP.PCAP.CD) - countries that have it, of 139",139
+"+ gdp_growth_pct (NY.GDP.MKTP.KD.ZG) - countries that have it, of 139",138
+"+ gross_savings_pct_gdp (NY.GNS.ICTR.ZS) - countries that have it, of 139",127
+"+ internet_pct (IT.NET.USER.ZS) - countries that have it, of 139",139
+"+ broadband_per100 (IT.NET.BBND.P2) - countries that have it, of 139",139
+"+ mobile_per100 (IT.CEL.SETS.P2) - countries that have it, of 139",139
+"+ tertiary_enrol_pct (SE.TER.ENRR) - countries that have it, of 139",133
+"+ gov_educ_pct_gdp (SE.XPD.TOTL.GD.ZS) - countries that have it, of 139",131
+"+ population (SP.POP.TOTL) - countries that have it, of 139",139
+OWID/Ember energy table (3 columns),218
+energy joined on ISO3,139
+ISO 3166 codes joined to coordinates,242
+geography joined on ISO3,139

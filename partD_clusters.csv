@@ -1,0 +1,140 @@
+iso3,country,cluster,rd_pct_gdp
+AGO,Angola,1,0.03229
+ARE,United Arab Emirates,2,1.48831
+ARG,Argentina,2,0.54126
+ARM,Armenia,2,0.2092
+AUS,Australia,2,1.82826
+AUT,Austria,2,3.20758
+AZE,Azerbaijan,2,0.2239
+BDI,Burundi,1,0.21312
+BEL,Belgium,2,3.36823
+BFA,Burkina Faso,1,0.25116
+BGR,Bulgaria,2,0.84549
+BHR,Bahrain,2,0.09713
+BIH,Bosnia and Herzegovina,2,0.20325
+BLR,Belarus,2,0.53901
+BMU,Bermuda,2,0.22546
+BOL,Bolivia,1,0.06643
+BRA,Brazil,1,1.21907
+BRN,Brunei Darussalam,2,0.27764
+BWA,Botswana,1,0.561
+CAN,Canada,2,1.93413
+CHE,Switzerland,2,3.14983
+CHL,Chile,2,0.33525
+CHN,China,2,2.35712
+CIV,Cote d'Ivoire,1,0.06975
+COD,"Congo, Dem. Rep.",1,0.40638
+COL,Colombia,1,0.2894
+CPV,Cabo Verde,1,0.06622
+CRI,Costa Rica,2,0.33002
+CUB,Cuba,1,0.51838
+CYP,Cyprus,2,0.82581
+CZE,Czechia,2,1.94537
+DEU,Germany,2,3.0897
+DNK,Denmark,2,2.96533
+DZA,Algeria,1,0.47865
+ECU,Ecuador,1,0.43839
+EGY,"Egypt, Arab Rep.",1,0.91564
+ESP,Spain,2,1.39637
+EST,Estonia,2,1.72614
+ETH,Ethiopia,1,0.27437
+FIN,Finland,2,2.93278
+FRA,France,2,2.2742
+GBR,United Kingdom,2,2.93993
+GEO,Georgia,2,0.29765
+GHA,Ghana,1,0.37655
+GMB,"Gambia, The",1,0.06933
+GRC,Greece,2,1.48872
+GTM,Guatemala,1,0.04887
+HKG,"Hong Kong SAR, China",2,0.99236
+HND,Honduras,1,0.05997
+HRV,Croatia,2,1.23536
+HUN,Hungary,2,1.58067
+IDN,Indonesia,1,0.28068
+IND,India,1,0.64558
+IRL,Ireland,2,1.12466
+IRN,"Iran, Islamic Rep.",1,0.78829
+IRQ,Iraq,1,0.04053
+ISL,Iceland,2,2.4864
+ISR,Israel,2,5.83209
+ITA,Italy,2,1.49869
+JOR,Jordan,1,0.69547
+JPN,Japan,2,3.26556
+KAZ,Kazakhstan,2,0.12602
+KEN,Kenya,1,0.69222
+KGZ,Kyrgyz Republic,1,0.08356
+KHM,Cambodia,1,0.08828
+KOR,"Korea, Rep.",2,4.5214
+KWT,Kuwait,2,0.17805
+LIE,Liechtenstein,2,5.86833
+LKA,Sri Lanka,1,0.11616
+LSO,Lesotho,1,0.05101
+LTU,Lithuania,2,1.12379
+LUX,Luxembourg,2,1.09627
+LVA,Latvia,2,0.75663
+MAC,"Macao SAR, China",2,0.45327
+MAR,Morocco,1,0.66036
+MDA,Moldova,2,0.23511
+MDG,Madagascar,1,0.01275
+MEX,Mexico,1,0.29185
+MKD,North Macedonia,2,0.37264
+MLI,Mali,1,0.13306
+MLT,Malta,2,0.60002
+MMR,Myanmar,1,0.15568
+MNE,Montenegro,2,0.36328
+MNG,Mongolia,2,0.13301
+MOZ,Mozambique,1,0.30814
+MRT,Mauritania,1,0.01019
+MUS,Mauritius,2,0.40299
+MWI,Malawi,1,0.17752
+MYS,Malaysia,1,0.95055
+NAM,Namibia,1,0.34986
+NGA,Nigeria,1,0.28444
+NIC,Nicaragua,1,0.10742
+NLD,Netherlands,2,2.26514
+NOR,Norway,2,2.24436
+NPL,Nepal,1,0.30221
+NZL,New Zealand,2,1.4642
+OMN,Oman,2,0.31599
+PAK,Pakistan,1,0.17475
+PAN,Panama,1,0.23246
+PER,Peru,1,0.17229
+PHL,Philippines,1,0.27625
+PNG,Papua New Guinea,1,0.03158
+POL,Poland,2,1.37128
+PRI,Puerto Rico (US),2,0.42882
+PRT,Portugal,2,1.60979
+PRY,Paraguay,1,0.15697
+PSE,West Bank and Gaza,1,0.45434
+QAT,Qatar,2,0.53129
+ROU,Romania,2,0.46414
+RUS,Russian Federation,2,1.09099
+RWA,Rwanda,1,0.75853
+SAU,Saudi Arabia,2,0.47618
+SEN,Senegal,1,0.5772
+SGP,Singapore,2,2.15983
+SLV,El Salvador,1,0.16299
+SRB,Serbia,2,0.86478
+SVK,Slovak Republic,2,0.88944
+SVN,Slovenia,2,2.15559
+SWE,Sweden,2,3.50181
+SWZ,Eswatini,1,0.27807
+SYC,Seychelles,2,0.2017
+SYR,Syrian Arab Republic,1,0.01942
+TCD,Chad,1,0.23294
+TGO,Togo,1,0.19074
+THA,Thailand,1,1.32818
+TJK,Tajikistan,1,0.08969
+TKM,Turkmenistan,1,0.13
+TTO,Trinidad and Tobago,2,0.06455
+TUN,Tunisia,1,0.74658
+TUR,Turkiye,2,1.36748
+TZA,Tanzania,1,0.51456
+UGA,Uganda,1,0.14265
+UKR,Ukraine,2,0.40318
+URY,Uruguay,2,0.67606
+USA,United States,2,3.41788
+UZB,Uzbekistan,1,0.12554
+VEN,"Venezuela, RB",1,0.33713
+VNM,Viet Nam,1,0.41652
+ZAF,South Africa,1,0.60296
