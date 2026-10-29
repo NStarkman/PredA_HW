@@ -12,15 +12,8 @@ WB = "https://api.worldbank.org/v2"
 TARGET = ("GB.XPD.RSDV.GD.ZS", "rd_pct_gdp")
 
 WB_PREDICTORS = {
-    "NY.GDP.PCAP.CD": "gdp_pc_usd",
-    "NY.GDP.MKTP.KD.ZG": "gdp_growth_pct",
-    "NY.GNS.ICTR.ZS":    "gross_savings_pct_gdp",
-    "IT.NET.USER.ZS":    "internet_pct",
-    "IT.NET.BBND.P2":    "broadband_per100",
-    "IT.CEL.SETS.P2":    "mobile_per100",
-    "SE.TER.ENRR":       "tertiary_enrol_pct",
-    "SE.XPD.TOTL.GD.ZS": "gov_educ_pct_gdp",
-    "SP.POP.TOTL":       "population",
+    "NY.GDP.PCAP.CD": "gdp_pc_usd", "NY.GDP.MKTP.KD.ZG": "gdp_growth_pct", "NY.GNS.ICTR.ZS":"gross_savings_pct_gdp", "IT.NET.USER.ZS":"internet_pct",
+    "IT.NET.BBND.P2":"broadband_per100", "IT.CEL.SETS.P2":"mobile_per100", "SE.TER.ENRR":"tertiary_enrol_pct", "SE.XPD.TOTL.GD.ZS": "gov_educ_pct_gdp", "SP.POP.TOTL":"population",
 }
 
 OWID_URL = "https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv"
@@ -171,7 +164,7 @@ for column in table.columns:
 print(f"\nfinal table: {len(table)} countries, {len(PRED)} predictors")
 print(f"target present: {table[tname].notna().sum()} rows (need 120)")
 print(f"target: {tname} (R&D spending / GDP)")
-print(f"correlation with log GDP per person: {table[[tname, 'log_gdp_pc']].corr().iloc[0, 1]:.3f}")
+
 
 table.to_csv("partC_table.csv", index=False)
 pd.DataFrame(coverage).to_csv("partC_coverage.csv", index=False)
